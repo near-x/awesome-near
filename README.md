@@ -1,4 +1,4 @@
-# Awesome NEAR
+# Awesome NEAR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome NEAR frameworks, libraries, software and resources.
 
@@ -25,7 +25,7 @@ Smart Contract SDK
 Frontend Libraries
 
 * [near-api-js](https://github.com/near/near-api-js)
-* [near-api-go](https://github.com/textileio/near-api-go)
+* [near-api-go](https://github.com/aurora-is-near/near-api-go)
 * [near-api-rs](https://github.com/bicarus-labs/near-api-rs)
 * [near-api-py](https://github.com/near/near-api-py)
 * [near-api-swift](https://github.com/near/near-api-swift)
@@ -37,7 +37,7 @@ Testing Tools
 
 Game Frameworks
 
-* [unity](https://github.com/near/near-api-unity)
+* [unity](https://github.com/metaseed-project/metaseed-unity-toolkit)
 * [godot](https://github.com/svntax/godot-near-sdk)
 
 Wallet SDK
@@ -48,7 +48,7 @@ Wallet SDK
 
 * [NEAR Explorer](https://explorer.near.org/)
 * [NEAR Wallet](https://wallet.near.org)
-* [Developer Console](https://console.near.dev/)
+* [Developer Console](https://console.pagoda.co/)
 
 
 ## Projects
@@ -94,7 +94,7 @@ Wallet SDK
 
 ### Linkdrop
 
-* [NEAR Linkdrop](https://github.com/near/near-linkdrop)
+* [NEAR Linkdrop](https://github.com/web3gamesofficial/web3games-near-nftdrop)
 * [Linkrop](https://github.com/NEAR-labs/contracts.near-linkdrop)
 * [NFT Linkdrop](https://github.com/danielwpz/nft-linkdrop)
 
@@ -132,7 +132,7 @@ Alternatives
 
 
 ## Decetralized Storage
-
+* [NEAR official docs](https://docs.near.org/docs/concepts/storage-solutions)
 * [Filecoin](https://docs.filecoin.io/)
 * [Arweave](https://arwiki.wiki/#/en/main)
 * [Crust](https://wiki.crust.network/en)
@@ -141,7 +141,7 @@ Alternatives
 
 ## Indexer
 
-* [NEAR Indexer](https://github.com/near/nearcore/tree/master/chain/indexer)
+* [NEAR Indexer](https://github.com/near/near-indexer-for-explorer)
 * [The Graph](https://thegraph.com/docs/en/supported-networks/near)
 
 
