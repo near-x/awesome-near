@@ -94,9 +94,9 @@ Wallet SDK
 
 ### Linkdrop
 
-* [NEAR Linkdrop](https://github.com/web3gamesofficial/web3games-near-nftdrop)
-* [Linkrop](https://github.com/NEAR-labs/contracts.near-linkdrop)
-* [NFT Linkdrop](https://github.com/danielwpz/nft-linkdrop)
+* [NEAR Linkdrop](https://github.com/near/near-linkdrop)
+* [Linkdrop Campaign](https://github.com/NEAR-labs/contracts.near-linkdrop)
+* [NFT Linkdrop](https://github.com/web3gamesofficial/web3games-near-nftdrop)
 
 ### Game
 
@@ -120,8 +120,8 @@ Wallet SDK
 
 Alternatives
 
-1. https://near-drpc.blockpi.io/
-2. https://near-drpc.blockpi.io/testnet/
+1. mainnet https://public-rpc.blockpi.io/http/near
+2. testnet https://public-rpc.blockpi.io/http/near-testnet
 
 
 #### Archival Nodes
@@ -132,7 +132,7 @@ Alternatives
 
 
 ## Decetralized Storage
-* [NEAR official docs](https://docs.near.org/docs/concepts/storage-solutions)
+* [Use Decentralized Storage Solutions with NEAR](https://docs.near.org/docs/concepts/storage-solutions)
 * [Filecoin](https://docs.filecoin.io/)
 * [Arweave](https://arwiki.wiki/#/en/main)
 * [Crust](https://wiki.crust.network/en)
