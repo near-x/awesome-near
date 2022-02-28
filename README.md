@@ -2,10 +2,13 @@
 
 A curated list of awesome NEAR frameworks, libraries, software and resources.
 
+<img src="https://user-images.githubusercontent.com/46699230/155927021-1567bbfc-f870-4ce0-a7e0-1d227a64563c.svg" width="150">
+  
 ## Contacts
 
 * [Website](https://near.org)
 * [Discord](https://near.chat)
+
 
 ## Documentation
 
