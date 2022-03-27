@@ -101,6 +101,7 @@ Wallet SDK
 * [NEAR Linkdrop](https://github.com/near/near-linkdrop)
 * [Linkdrop Campaign](https://github.com/NEAR-labs/contracts.near-linkdrop)
 * [NFT Linkdrop](https://github.com/web3gamesofficial/web3games-near-nftdrop)
+* [Linkdrop Proxy](https://github.com/near-apps/linkdrop-proxy)
 
 ### Game
 
