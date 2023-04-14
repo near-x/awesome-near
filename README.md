@@ -52,6 +52,7 @@ Wallet SDK
 * [NEAR Explorer](https://explorer.near.org/)
 * [NEAR Wallet](https://wallet.near.org)
 * [Sender Wallet](https://senderwallet.io/)
+* [walletOS](https://www.pinestreetlabs.com/walletos/)
 * [Developer Console](https://console.pagoda.co/)
 
 
